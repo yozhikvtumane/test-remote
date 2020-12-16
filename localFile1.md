@@ -1,0 +1,1 @@
+hacking the capacitor won't do anything, we need to reboot the open-source HTTP sensor!
